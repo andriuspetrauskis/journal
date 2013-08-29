@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" name="Default" comment="" />
+    <list default="true" id="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" name="Default" comment="model">
+      <change type="DELETED" beforePath="C:\journal\Model\Abstract.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\journal\Model\Class.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\journal\Model\Student.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\journal\Model\Subject.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\journal\Model\Teacher.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/icon.png" afterPath="$PROJECT_DIR$/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controller/Base.php" afterPath="$PROJECT_DIR$/Controller/Base.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Db.php" afterPath="$PROJECT_DIR$/Db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helper.php" afterPath="$PROJECT_DIR$/Helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Model/School.php" afterPath="$PROJECT_DIR$/Model/School.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Model/User.php" afterPath="$PROJECT_DIR$/Model/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Helper/View.php" afterPath="$PROJECT_DIR$/Helper/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/admin/add.phtml" afterPath="$PROJECT_DIR$/templates/admin/add.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/school/add_class.phtml" afterPath="$PROJECT_DIR$/templates/school/add_class.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/school/add_student.phtml" afterPath="$PROJECT_DIR$/templates/school/add_student.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/school/add_subject.phtml" afterPath="$PROJECT_DIR$/templates/school/add_subject.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/school/add_teacher.phtml" afterPath="$PROJECT_DIR$/templates/school/add_teacher.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controller/admin.php" afterPath="$PROJECT_DIR$/Controller/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/bottom.phtml" afterPath="$PROJECT_DIR$/templates/bottom.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controller/index.php" afterPath="$PROJECT_DIR$/Controller/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/admin/index.phtml" afterPath="$PROJECT_DIR$/templates/admin/index.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index/index.phtml" afterPath="$PROJECT_DIR$/templates/index/index.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/school/index.phtml" afterPath="$PROJECT_DIR$/templates/school/index.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/student/index.phtml" afterPath="$PROJECT_DIR$/templates/student/index.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/teacher/index.phtml" afterPath="$PROJECT_DIR$/templates/teacher/index.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/journal.iml" afterPath="$PROJECT_DIR$/.idea/journal.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/journal.sql" afterPath="$PROJECT_DIR$/sql/journal.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controller/school.php" afterPath="$PROJECT_DIR$/Controller/school.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script.js" afterPath="$PROJECT_DIR$/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controller/student.php" afterPath="$PROJECT_DIR$/Controller/student.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controller/teacher.php" afterPath="$PROJECT_DIR$/Controller/teacher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/top.phtml" afterPath="$PROJECT_DIR$/templates/top.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="journal.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.php" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377547745427" ignored="false" />
@@ -15,7 +60,7 @@
     <file path="/bottom.phtml" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377435926040" ignored="false" />
     <file path="/style.css" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377449605779" ignored="false" />
     <file path="/User.php" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377554246068" ignored="false" />
-    <file path="/Dummy.txt" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377450383258" ignored="false" />
+    <file path="/Dummy.txt" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377830250471" ignored="false" />
     <file path="/admin.php" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377556966161" ignored="false" />
     <file path="/teacher.php" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377551024691" ignored="false" />
     <file path="/school.php" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377551560910" ignored="false" />
@@ -26,6 +71,7 @@
     <file path="/add_subject.phtml" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377558033842" ignored="false" />
     <file path="/add_class.phtml" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377558144220" ignored="false" />
     <file path="/add_teacher.phtml" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377558104833" ignored="false" />
+    <file path="/Abstract.php" changelist="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" time="1377829467148" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +94,7 @@
       <file leaf-file-name="admin.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Controller/admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="9" selection-start="651" selection-end="651" vertical-scroll-proportion="-12.423077">
+            <state line="19" column="9" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -57,7 +103,7 @@
       <file leaf-file-name="add.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/admin/add.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="474" selection-end="474" vertical-scroll-proportion="-7.8461537">
+            <state line="12" column="7" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -66,7 +112,7 @@
       <file leaf-file-name="add_student.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/school/add_student.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="-0.0">
+            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -75,7 +121,7 @@
       <file leaf-file-name="add_teacher.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/school/add_teacher.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="-0.0">
+            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -84,7 +130,7 @@
       <file leaf-file-name="add_class.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/school/add_class.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="30" selection-start="16" selection-end="30" vertical-scroll-proportion="-0.0">
+            <state line="0" column="30" selection-start="16" selection-end="30" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -93,16 +139,7 @@
       <file leaf-file-name="add_subject.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/school/add_subject.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="School.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Model/School.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="951" selection-end="951" vertical-scroll-proportion="-14.384615">
+            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,7 +148,7 @@
       <file leaf-file-name="index.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/school/index.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="56" selection-start="192" selection-end="198" vertical-scroll-proportion="0.53846157">
+            <state line="5" column="56" selection-start="192" selection-end="198" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,16 +157,25 @@
       <file leaf-file-name="index.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/student/index.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="36" selection-start="587" selection-end="587" vertical-scroll-proportion="-7.8461537">
+            <state line="12" column="36" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.phtml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/teacher/index.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="658" selection-end="658" vertical-scroll-proportion="0.4798387">
+            <state line="15" column="16" selection-start="676" selection-end="676" vertical-scroll-proportion="-9.807693">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Abstract.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Model/Abstract.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="48" selection-start="2949" selection-end="2949" vertical-scroll-proportion="0.7884914">
               <folding />
             </state>
           </provider>
@@ -142,10 +188,17 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Controller/index.php" />
         <option value="$PROJECT_DIR$/templates/school/index.phtml" />
         <option value="$PROJECT_DIR$/templates/teacher/index.phtml" />
         <option value="$PROJECT_DIR$/templates/student/index.phtml" />
@@ -161,16 +214,18 @@
         <option value="$PROJECT_DIR$/templates/school/add_student.phtml" />
         <option value="$PROJECT_DIR$/templates/school/add_subject.phtml" />
         <option value="$PROJECT_DIR$/templates/school/add_teacher.phtml" />
+        <option value="$PROJECT_DIR$/Model/Abstract.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -294,19 +349,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="87755a43-c0cb-4f16-84ad-dc3b6e084940">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -328,6 +376,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b4bfcd7f-8e1d-4365-a8a2-5bbf396b3375" name="Default" comment="" />
@@ -337,26 +402,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1346" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20978121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -401,7 +466,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -422,13 +487,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Controller/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="58" selection-start="567" selection-end="567" vertical-scroll-proportion="0.3830645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Controller/school.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="24" selection-start="31" selection-end="54" vertical-scroll-proportion="0.065764025">
@@ -466,21 +524,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Model/School.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="951" selection-end="951" vertical-scroll-proportion="-14.384615">
+        <state line="28" column="0" selection-start="951" selection-end="951" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Controller/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="9" selection-start="651" selection-end="651" vertical-scroll-proportion="-12.423077">
+        <state line="19" column="9" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/admin/add.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="474" selection-end="474" vertical-scroll-proportion="-7.8461537">
+        <state line="12" column="7" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -515,21 +573,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/school/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="56" selection-start="192" selection-end="198" vertical-scroll-proportion="0.53846157">
+        <state line="5" column="56" selection-start="192" selection-end="198" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/student/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="587" selection-end="587" vertical-scroll-proportion="-7.8461537">
+        <state line="12" column="36" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/teacher/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="658" selection-end="658" vertical-scroll-proportion="0.4798387">
+        <state line="15" column="16" selection-start="676" selection-end="676" vertical-scroll-proportion="-9.807693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Abstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="48" selection-start="2949" selection-end="2949" vertical-scroll-proportion="0.7884914">
           <folding />
         </state>
       </provider>

@@ -1,0 +1,14 @@
+<div id="index_page">
+    <div class="messages">
+        <span class="title message">Prašome prisijungti prie sistemos</span>
+        <?php if(isset($this->error)):?><span class="error message"><?=$this->error?></span><?php endif; ?>
+    </div>
+    <form id="login_form" method="post" action="<?=$this->url('index','login')?>">
+        <fieldset>
+            <legend>Įveskite prisijungimo duomenis</legend>
+            Vartotojo ID: <input name="id"/><br/>
+            Slaptažodis: <input type="password" name="password"/><br/>
+            <input type="submit" value="Tęsti"/>
+        </fieldset>
+    </form>
+</div>

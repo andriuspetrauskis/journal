@@ -1,0 +1,16 @@
+<div id="student_page">
+        <div class="list">
+            <div id="timetable_title">Dienynas</div>
+            <table id="timetable">
+                <tr>
+                    <th>Dalykas</th><?php foreach($this->days as $day){ ?><th><?php echo $day?></th><?}?>
+                </tr>
+                <?php foreach($this->subjects as $item):?>
+                    <tr>
+                        <td><?php echo $item->title?></td>
+                        <?php foreach($this->days as $day){ ?><th><?php echo $day?></th><?}?>
+                    </tr>
+                <?php endforeach; ?>
+            </table>
+        </div>
+</div>

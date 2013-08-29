@@ -1,0 +1,75 @@
+<div id="school_page">
+    <div class="list">
+        <div id="teachers_title">Mokytojai</div>
+        <table id="teachers">
+            <tr>
+                <th>Vardas</th><th>Dalykų</th><th>Klasių</th><th>Mokinių</th><th></th>
+            </tr>
+            <?php foreach($this->teachers as $item):?>
+                <tr>
+                    <td><?php echo $item->full_name?></td>
+                    <td><?php echo $item->subjects?></td>
+                    <td><?php echo $item->class?></td>
+                    <td><?php echo $item->students?></td>
+                    <th><a href="javascript:delete_teacher();">Naikinti</a></th>
+                </tr>
+            <?php endforeach; ?>
+            <a href="<?php echo $this->url(array('school', 'add_teacher'));?>">Pridėti mokytoją</a>
+        </table>
+    </div>
+
+    <div class="list">
+        <div id="subjects_title">Dalykai</div>
+        <table id="subjects">
+            <tr>
+                <th>Pavadinimas</th><th>Dėsto</th><th>Lygis</th><th>Mokosi</th><th></th>
+            </tr>
+            <?php foreach($this->subjects as $item):?>
+                <tr>
+                    <td><?php echo $item->title?></td>
+                    <td><?php echo $item->teacher?></td>
+                    <td><?php echo $item->level?></td>
+                    <td><?php echo $item->students?></td>
+                    <th><a href="javascript:delete_subject();">Naikinti</a></th>
+                </tr>
+            <?php endforeach; ?>
+            <a href="<?php echo $this->url(array('school', 'add_subject'));?>">Pridėti dalyką</a>
+        </table>
+    </div>
+    <div class="list">
+        <div id="classes_title">Klasės</div>
+        <table id="classes">
+            <tr>
+                <th>Pavadinimas</th><th>Auklėtojas</th><th>Mokinių</th><th>Pažangumas</th><th></th>
+            </tr>
+            <?php foreach($this->classes as $item):?>
+                <tr>
+                    <td><?php echo $item->title?></td>
+                    <td><?php echo $item->teacher?></td>
+                    <td><?php echo $item->students?></td>
+                    <td><?php echo $item->average?></td>
+                    <th><a href="javascript:delete_class();">Naikinti</a></th>
+                </tr>
+            <?php endforeach; ?>
+            <a href="<?php echo $this->url(array('school', 'add_class'));?>">Pridėti klasę</a>
+        </table>
+    </div>
+    <div class="list">
+        <div id="students_title">Mokiniai</div>
+        <table id="students">
+            <tr>
+                <th>Vardas</th><th>Klasė</th><th>Auklėtojas</th><th>Vidurkis</th><th></th>
+            </tr>
+            <?php foreach($this->students as $item):?>
+                <tr>
+                    <td><?php echo $item->full_name?></td>
+                    <td><?php echo $item->class_title?></td>
+                    <td><?php echo $item->teacher?></td>
+                    <td><?php echo $item->average?></td>
+                    <th><a href="javascript:delete_student();">Naikinti</a></th>
+                </tr>
+            <?php endforeach; ?>
+            <a href="<?php echo $this->url(array('school', 'add_student'));?>">Pridėti mokinį</a>
+        </table>
+    </div>
+</div>

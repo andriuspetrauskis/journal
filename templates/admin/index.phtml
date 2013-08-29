@@ -1,0 +1,17 @@
+<div id="list">
+    <table>
+        <tr>
+            <th>Mokyklos pavadinimas</th><th>Administratorių</th><th>Mokytojų</th><th>Mokinių</th><th></th>
+        </tr>
+        <?php foreach($this->schools as $school):?>
+            <tr>
+                <td><?php echo $school->title?></td>
+                <td><?php echo $school->admins?></td>
+                <td><?php echo $school->teachers?></td>
+                <td><?php echo $school->students?></td>
+                <th><a href="javascript:delete_school();">Naikinti</a></th>
+            </tr>
+        <?php endforeach; ?>
+        <a href="<?php echo $this->url(array('admin', 'add'));?>">Pridėti mokyklą</a>
+    </table>
+</div>

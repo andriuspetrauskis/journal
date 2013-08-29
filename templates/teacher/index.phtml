@@ -1,0 +1,19 @@
+<div id="teacher_page">
+    <?php foreach($this->classes as $class): ?>
+    <div class="list">
+        <div id="class<?php echo $class->title?>_title"><?php echo $class->title?></div>
+        <table id="class<?php echo $class->title?>_list">
+            <tr>
+                <th>Vardas</th><?php foreach($this->days as $day){ ?><th><?php echo $day?></th><?}?>
+            </tr>
+            <?php foreach($this->teachers as $item):?>
+                <tr>
+                    <td><?php echo $item->full_name?></td>
+                    <?php foreach($this->days as $day){ ?><th><?php echo $day?></th><?}?>
+                </tr>
+            <?php endforeach; ?>
+
+        </table>
+    </div>
+    <?php endforeach; ?>
+</div>

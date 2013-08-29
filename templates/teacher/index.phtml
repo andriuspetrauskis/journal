@@ -6,7 +6,7 @@
             <tr>
                 <th>Vardas</th><?php foreach($this->days as $day){ ?><th><?php echo $day?></th><?}?>
             </tr>
-            <?php foreach($this->teachers as $item):?>
+            <?php foreach($class->students as $item):?>
                 <tr>
                     <td><?php echo $item->full_name?></td>
                     <?php foreach($this->days as $day){ ?><th><?php echo $day?></th><?}?>

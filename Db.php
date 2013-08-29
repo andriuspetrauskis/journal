@@ -2,8 +2,8 @@
 
 class Db {
     private static $server = 'localhost';
-    private static $user = 'journal';
-    private static $pass = 'fdfv45sdhju';
+    private static $user = 'root';
+    private static $pass = 'root';
     private static $db = 'journal';
     private static $pdo = null;
 
